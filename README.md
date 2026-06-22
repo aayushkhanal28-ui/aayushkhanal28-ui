@@ -13,7 +13,7 @@
 
 💻 Passionate about **Full Stack Development**
 
-🌱 Currently learning modern web technologies
+🌱 Currently learning modern web technologies.
 
 ⚡ Interested in Web Development, Programming, and Software Engineering
 
